@@ -9,6 +9,7 @@
 <li><h3>Some Comments</h3></li>
 <li><h3>Images to some posts</h3></li>
 <li><h3>Responsive web-interface</h3></li>
+<li><h3>Email sending to register</h3></li>
 
 </ul>
 
