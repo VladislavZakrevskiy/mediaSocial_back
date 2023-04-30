@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=800&size=32&duration=4000&pause=200&color=000000&width=800&height=55&lines=It's+my+social+media;like+a+VK%2C+facebook+or+tg)](https://git.io/typing-svg)
 
+<h1 align='center'>API with connected db: <a href='https://mediasocial.onrender.com'>https://mediasocial.onrender.com</a></h1>
+<h1 align='center'>Site: <a href='https://best-media-social.netlify.app'>link</a></h1>
+
 <h1>Features: </h1>
 <ul>
 <li><h3>Authorization by JWT (access and refresh)</h3></li>
